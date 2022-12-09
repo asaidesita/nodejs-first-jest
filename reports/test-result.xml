@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="0.261">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-12-09T03:22:51" time="0.234" tests="3">
+    <testcase classname=" returns FizzBuzz when num is divisible by both 3 and 5" name=" returns FizzBuzz when num is divisible by both 3 and 5" time="0.001">
+    </testcase>
+    <testcase classname=" return Fizz when num is divisible by 3" name=" return Fizz when num is divisible by 3" time="0">
+    </testcase>
+    <testcase classname=" return Buzz when num is dibisible by 5" name=" return Buzz when num is dibisible by 5" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
